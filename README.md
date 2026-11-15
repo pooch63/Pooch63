@@ -1,1 +1,1 @@
-Hi, I'm Kiyaan! I'm interested in graph theory and pathology machine learning.
+Hi, I'm Kiyaan! I'm interested in esolangs, graph theory, and pathology machine learning.
